@@ -25,9 +25,9 @@
 ## 💻 GitHub Profile Stats
 <p>
 	<a href="/">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstanmaymitra&layout=compact&theme=monokai&bg_color=1F222E&title_color=F24A72&icon_color=F8D866" height="180px" width="50%">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstanmaymitra&layout=compact&theme=monokai&bg_color=1F222E&title_color=F24A72&icon_color=F8D866" height="180px">
 	</a>
 	<a href="/">
-		<img src="https://github-readme-stats.vercel.app/api?username=itstanmaymitra&show_icons=true&theme=monokai&bg_color=1F222E&title_color=F24A72&icon_color=F8D866" height="180px" width="50%">
+		<img src="https://github-readme-stats.vercel.app/api?username=itstanmaymitra&show_icons=true&theme=monokai&bg_color=1F222E&title_color=F24A72&icon_color=F8D866" height="180px">
 	</a>
 </p>
