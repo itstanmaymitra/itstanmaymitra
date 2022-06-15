@@ -22,12 +22,16 @@
 
 <hr/>
 
+## 🔥 Streak stats
+<p align="center">
+	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itstanmaymitra&theme=monokai-metallian&hide_border=true"/>
+</p>
+
+
 ## 💻 GitHub Profile Stats
-<p>
-	<a href="/">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstanmaymitra&layout=compact&theme=monokai&bg_color=1F222E&title_color=F24A72&icon_color=F8D866" height="180px">
-	</a>
-	<a href="/">
-		<img src="https://github-readme-stats.vercel.app/api?username=itstanmaymitra&show_icons=true&theme=monokai&bg_color=1F222E&title_color=F24A72&icon_color=F8D866" height="180px">
-	</a>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=itstanmaymitra&show_icons=true&theme=monokai&bg_color=1F222E&title_color=F24A72&icon_color=F8D866&hide_border=true" height="190px" width="500px">
+</p>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstanmaymitra&layout=compact&theme=monokai&bg_color=1F222E&title_color=F24A72&icon_color=F8D866&hide_border=true" height="190px" width="500px">
 </p>
