@@ -11,14 +11,23 @@
 
 <!-- Social icons section -->
 <p align="center">
-	<a href="https://www.linkedin.com/in/itstanmaymitra/"><img width="32px" alt="Linkedin" title="Linkedin" src="./images/linkedin.png"/></a>
+	<a href="https://www.linkedin.com/in/itstanmaymitra/"><img width="32px" target="_blank" alt="Linkedin" title="Linkedin" src="./images/linkedin.png"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="https://twitter.com/itstanmaymitra"><img width="32px" alt="Twitter" title="Twitter" src="./images/twitter.png"/></a>
+	<a href="https://twitter.com/itstanmaymitra"><img width="32px" target="_blank" alt="Twitter" title="Twitter" src="./images/twitter.png"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="https://www.facebook.com/itstanmaymitra/" alt="Facebook" title="Facebook"><img width="32px" src="./images/facebook.png"/></a>
+	<a href="https://www.facebook.com/itstanmaymitra/" alt="Facebook" title="Facebook"><img width="32px" target="_blank" src="./images/facebook.png"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="https://www.instagram.com/itstanmaymitra/"><img width="32px" alt="Instagram" title="Instagram" src="./images/instagram.png"></a>
+	<a href="https://www.instagram.com/itstanmaymitra/"><img width="32px" target="_blank" alt="Instagram" title="Instagram" src="./images/instagram.png"></a>
 </p>
 
 <hr/>
 
+## 💻 GitHub Profile Stats
+<p>
+	<a href="/">
+	<img src="https://github-readme-stats.vercel.app/api?username=itstanmaymitra&show_icons=true&theme=monokai">
+	</a>
+	<a href="/">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstanmaymitra&layout=compact&theme=monokai">
+	</a>
+</p>
