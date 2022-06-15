@@ -29,9 +29,9 @@
 
 
 ## 💻 GitHub Profile Stats
-<p align="center">
+<p align="left">
 	<img src="https://github-readme-stats.vercel.app/api?username=itstanmaymitra&show_icons=true&theme=monokai&bg_color=1F222E&title_color=F24A72&icon_color=F8D866&hide_border=true" height="190px" width="500px">
 </p>
-<p align="center">
+<p align="left">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstanmaymitra&layout=compact&theme=monokai&bg_color=1F222E&title_color=F24A72&icon_color=F8D866&hide_border=true" height="190px" width="500px">
 </p>
