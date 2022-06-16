@@ -1,6 +1,6 @@
 <h1 align="center">
 	<img src="https://media.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.gif" width="50">
-	Hi, I am Tanmay Mitra
+	Hi, I am Tanmay Mitra! Great to see you here!
 	<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="50">
 </h1>
 
@@ -20,13 +20,25 @@
 	<a href="https://www.instagram.com/itstanmaymitra/"><img width="32px" target="_blank" alt="Instagram" title="Instagram" src="./images/instagram.png"></a>
 </p>
 
+<hr />
+
+## About Me 👉😇👈
+I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) from [Chandigarh University](https://www.cuchd.in/). I have a passion for learning new things. I am a full-stack web developer with 5+ years of coding experience. I am always open to collaborating on projects and innovative/disruptive ideas. 
+
+💻 I love to participate in coding competition.
+
+👯 I’m looking to collaborate on Open-Source Projects
+
+📖 I’m currently working on few projects and learning DSA to improve my competitive programming skill.
+
+🤔 **I’m Open to Work on Domain like Web Developer, Software Development and DevOps**
+
 <hr/>
 
 ## 🔥 Streak stats
 <p align="center">
 	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itstanmaymitra&theme=monokai-metallian&hide_border=true"/>
 </p>
-
 
 ## 💻 GitHub Profile Stats
 <p align="center">
