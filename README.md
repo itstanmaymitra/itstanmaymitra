@@ -1,8 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 <h1 align="center">
 	<img src="https://media.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.gif" width="50">
 	Hi, I am Tanmay Mitra! Great to see you here!
@@ -72,8 +67,6 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 		<td align='center'>
 			<img src="./images/css.svg">
 		</td>
-		<td align='center'>
-		</td>
 	</tr>
 </table>
 
@@ -99,12 +92,6 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 	<tr>
 		<td align='center'>
 			<img src="./images/tailwind.svg">
-		</td>
-		<td align='center'>
-		</td>
-		<td align='center'>
-		</td>
-		<td align='center'>
 		</td>
 	</tr>
 </table>
