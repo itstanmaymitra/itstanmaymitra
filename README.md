@@ -22,6 +22,7 @@
 
 <hr />
 
+<!-- About Me Section -->
 ## About Me 👉😇👈
 I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) from [Chandigarh University](https://www.cuchd.in/). I have a passion for learning new things. I am a full-stack web developer with 5+ years of coding experience. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
@@ -34,6 +35,39 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 🤔 **I’m Open to Work on Domain like Web Developer, Software Development and DevOps**
 
 <hr/>
+
+<!-- Skills Section -->
+## 🧠 Skills
+### Languages
+<table width="100%">
+	<tr>
+		<td align='center'>
+			<img src="./images/c.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/cpp.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/python.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/javascript.svg">
+		</td>
+	</tr>
+	<tr>
+		<td align='center'>
+			<img src="./images/nodejs.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/html.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/css.svg">
+		</td>
+		<td align='center'>
+		</td>
+	</tr>
+</table>
 
 ## 🔥 Streak stats
 <p align="center">
