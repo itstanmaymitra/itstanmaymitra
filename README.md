@@ -96,6 +96,41 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 	</tr>
 </table>
 
+<h3>
+	<img src="./images/code.svg" height="12">
+	Database And Others
+</h3>
+<table width="100%">
+	<tr>
+		<td align='center'>
+			<img src="./images/mongodb.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/mysql.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/firebase.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/heroku.svg">
+		</td>
+	</tr>
+	<tr>
+		<td align='center'>
+			<img src="./images/adobexd.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/figma.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/wordpress.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/shopify.svg">
+		</td>
+	</tr>
+</table>
+
 ## 🔥 Streak stats
 <p align="center">
 	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itstanmaymitra&theme=monokai-metallian&hide_border=true"/>
