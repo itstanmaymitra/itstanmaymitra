@@ -1,3 +1,8 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 <h1 align="center">
 	<img src="https://media.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.gif" width="50">
 	Hi, I am Tanmay Mitra! Great to see you here!
@@ -38,7 +43,10 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 
 <!-- Skills Section -->
 ## 🧠 Skills
-### Languages
+<h3>
+	<img src="./images/code.svg" height="12">
+	Languages
+</h3>
 <table width="100%">
 	<tr>
 		<td align='center'>
@@ -63,6 +71,38 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 		</td>
 		<td align='center'>
 			<img src="./images/css.svg">
+		</td>
+		<td align='center'>
+		</td>
+	</tr>
+</table>
+
+<h3>
+	<img src="./images/code.svg" height="12">
+	Libraries And Frameworks
+</h3>
+<table width="100%">
+	<tr>
+		<td align='center'>
+			<img src="./images/express.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/react.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/next.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/flask.svg">
+		</td>
+	</tr>
+	<tr>
+		<td align='center'>
+			<img src="./images/tailwind.svg">
+		</td>
+		<td align='center'>
+		</td>
+		<td align='center'>
 		</td>
 		<td align='center'>
 		</td>
