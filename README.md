@@ -6,7 +6,7 @@
 
 <!-- Typing Intro Section -->
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&duration=6000&color=F24A72&background=77BAFF00&center=true&vCenter=true&lines=I+am+a+Full+Stack+Web+Developer..;I+am+a+Competitive+Programmer..">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F24A72&center=true&vCenter=true&width=500&lines=I+am+a+Full+Stack+Web+Developer..;I+am+a+Data+Analyst...;I+am+a+Competitive+Programmer..." alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -23,8 +23,10 @@
 <hr />
 
 <!-- About Me Section -->
+
 ## About Me 👉😇👈
-I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) from [Chandigarh University](https://www.cuchd.in/). I have a passion for learning new things. I am a full-stack web developer with 5+ years of coding experience. I am always open to collaborating on projects and innovative/disruptive ideas. 
+
+I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) from [Chandigarh University](https://www.cuchd.in/). I have a passion for learning new things. I am a full-stack web developer with 5+ years of coding experience. I am always open to collaborating on projects and innovative/disruptive ideas.
 
 💻 I love to participate in coding competition.
 
@@ -32,12 +34,14 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 
 📖 I’m currently working on few projects and learning DSA to improve my competitive programming skill.
 
-🤔 **I’m Open to Work on Domain like Web Developer, Software Development and DevOps**
+🤔 **I’m Open to Work on Domain like Web Developer, Software Development, Data Analyst and DevOps**
 
 <hr/>
 
 <!-- Skills Section -->
+
 ## 🧠 Skills
+
 <h3>
 	<img src="./images/code.svg" height="12">
 	Languages
@@ -45,27 +49,27 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 <table width="100%">
 	<tr>
 		<td align='center'>
-			<img src="./images/c.svg">
-		</td>
-		<td align='center'>
-			<img src="./images/cpp.svg">
-		</td>
-		<td align='center'>
-			<img src="./images/python.svg">
-		</td>
-		<td align='center'>
-			<img src="./images/javascript.svg">
-		</td>
-	</tr>
-	<tr>
-		<td align='center'>
-			<img src="./images/nodejs.svg">
-		</td>
-		<td align='center'>
 			<img src="./images/html.svg">
 		</td>
 		<td align='center'>
 			<img src="./images/css.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/javascript.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/nodejs.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/c.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/cpp.svg">
+		</td>		
+	</tr>
+	<tr>
+		<td align='center'>
+			<img src="./images/python.svg">
 		</td>
 	</tr>
 </table>
@@ -88,9 +92,10 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 		<td align='center'>
 			<img src="./images/flask.svg">
 		</td>
-	</tr>
-	<tr>
 		<td align='center'>
+			<img src="./images/tailwind.svg">
+		</td>
+		<td>
 			<img src="./images/tailwind.svg">
 		</td>
 	</tr>
@@ -114,14 +119,14 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 		<td align='center'>
 			<img src="./images/heroku.svg">
 		</td>
-	</tr>
-	<tr>
 		<td align='center'>
 			<img src="./images/adobexd.svg">
 		</td>
 		<td align='center'>
 			<img src="./images/figma.svg">
 		</td>
+	</tr>
+	<tr>
 		<td align='center'>
 			<img src="./images/wordpress.svg">
 		</td>
@@ -131,16 +136,11 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 	</tr>
 </table>
 
-## 🔥 Streak stats
+## 🔥 Stats
+
 <p align="center">
 	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itstanmaymitra&theme=monokai-metallian&hide_border=true"/>
 </p>
-
-## 💻 GitHub Profile Stats
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=itstanmaymitra&show_icons=true&theme=monokai&bg_color=1F222E&title_color=F24A72&icon_color=F8D866&hide_border=true" width="48%">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstanmaymitra&layout=compact&theme=monokai&bg_color=1F222E&title_color=F24A72&icon_color=F8D866&hide_border=true" width="48%">
-</p>
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=itstanmaymitra&bg_color=1F222E&color=F8D866&line=F24A72&point=FFFFFF&hide_border=true">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstanmaymitra&layout=compact&theme=monokai&bg_color=1F222E&title_color=F24A72&icon_color=F8D866&hide_border=true">
 </p>
