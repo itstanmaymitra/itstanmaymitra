@@ -92,10 +92,10 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 		<td align='center'>
 			<img src="./images/flask.svg">
 		</td>
-		<td align='center'>
-			<img src="./images/tailwind.svg">
-		</td>
 		<td>
+			<img src="./images/django.svg">
+		</td>
+		<td align='center'>
 			<img src="./images/tailwind.svg">
 		</td>
 	</tr>
@@ -103,7 +103,7 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 
 <h3>
 	<img src="./images/code.svg" height="12">
-	Database And Others
+	Database, CLoud And Others
 </h3>
 <table width="100%">
 	<tr>
@@ -112,6 +112,26 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 		</td>
 		<td align='center'>
 			<img src="./images/mysql.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/postgresql.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/azure.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/aws.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/docker.svg">
+		</td>
+	</tr>
+	<tr>
+		<td align='center'>
+			<img src="./images/kubernetes.svg">
+		</td>
+		<td align='center'>
+			<img src="./images/wordpress.svg">
 		</td>
 		<td align='center'>
 			<img src="./images/firebase.svg">
@@ -124,14 +144,6 @@ I am Tanmay Mitra, currently pursuing my B.Eng degree in CSE (AIML Specialized) 
 		</td>
 		<td align='center'>
 			<img src="./images/figma.svg">
-		</td>
-	</tr>
-	<tr>
-		<td align='center'>
-			<img src="./images/wordpress.svg">
-		</td>
-		<td align='center'>
-			<img src="./images/shopify.svg">
 		</td>
 	</tr>
 </table>
